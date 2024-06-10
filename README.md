@@ -7,6 +7,6 @@ Toggle dark mode
 Displays temperature, humidity, wind speed, and weather description for each location
 
 Technologies Used:-
-React.js
-Axios
+React.js,
+Axios,
 Open Weather API
